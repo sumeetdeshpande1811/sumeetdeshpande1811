@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 <h1 align="center">Hi 👋, I'm Sumeet Deshpande</h1>
 <h3 align="center">A passionate developer from Boston</h3>
 
