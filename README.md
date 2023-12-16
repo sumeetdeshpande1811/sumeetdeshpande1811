@@ -7,7 +7,15 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- ⚡ Fun fact **I think I am funny**
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
